@@ -2,3 +2,8 @@
 .netrwhist
 .vim/pack/gcman105/start/
 .vim/pack/gcman105/opt/
+.vim/autoload/
+.vim/black/
+.vim/deoplete.log
+.vim/plugged/
+deoplete.log
