@@ -4,6 +4,8 @@
 .vim/pack/gcman105/opt/
 .vim/autoload/
 .vim/black/
+.vim/sessions/
+.vim/undodir/
 .vim/deoplete.log
 .vim/plugged/
 deoplete.log
